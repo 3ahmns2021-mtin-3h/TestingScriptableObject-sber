@@ -1,13 +1,13 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+This Project serves the pourpos, that i find out how to use and integrate scriptable objects.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Unity Version 2020.1.5f1, Visual Studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -16,13 +16,11 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
+none(yet)
 ### Project state: 
-incl. progress in percent
-
+0%
 ### Limitations: 
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Simon M. Berger
